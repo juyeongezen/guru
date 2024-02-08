@@ -83,21 +83,19 @@
 
 #
 
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/31a27968-1444-49f3-920c-a35a148e54d0)
-
-#### :point_right: 
+#### :point_right: 검수 처리가 완료된 주문에 대해 자동으로 마감 처리
 
 *** 
 
 ### :open_file_folder: 발주 상세
 ![image](https://github.com/juyeongezen/guru/assets/151706785/a38cfd30-e661-4af4-a0b3-23dce1460446)
 
-#### :point_right: 발주 시 수량 및 상태 변경
+#### :point_right: 발주 시 수량 및 상태 변경, 계약서 조회 화면과 연동
 #
 
 ![image](https://github.com/juyeongezen/guru/assets/151706785/a5a0b973-278e-46d7-800a-84ca6dfe3831)
 
-#### :point_right: 발주마감 (상태 변경)
+#### :point_right: 발주마감 (상태 변경), 계약서/거래명세서 화면과 연동, 출력 구현
 
 ***
 

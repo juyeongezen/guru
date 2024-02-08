@@ -77,9 +77,11 @@
 ***
 
 ### :open_file_folder: 발주 리스트
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/a01f95cc-ec33-4309-8a55-af4c4089cd10)
+![list](https://github.com/juyeongezen/guru/assets/151706785/77fae841-c954-40d2-8d27-4327b8f2eb18)
 
-#### :point_right: 
+#### :point_right: 계약과 조달계획에 따른
+발주 조회![image](https://github.com/juyeongezen/guru/assets/151706785/f6f9baed-451b-40a7-8b22-cac18c70f865)
+
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/31a27968-1444-49f3-920c-a35a148e54d0)
@@ -89,7 +91,7 @@
 *** 
 
 ### :open_file_folder: 발주 상세
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/962fab1f-cecc-422e-a06f-a64c2b6eb1fb)
+![image](https://github.com/juyeongezen/guru/assets/151706785/a38cfd30-e661-4af4-a0b3-23dce1460446)
 
 #### :point_right: 
 #

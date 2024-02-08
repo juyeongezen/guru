@@ -76,43 +76,43 @@
 
 ***
 
-### :open_file_folder: 출하 명세서
+### :open_file_folder: 발주 리스트
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/a01f95cc-ec33-4309-8a55-af4c4089cd10)
 
-#### :point_right: 출하 명세서 리스트
+#### :point_right: 
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/31a27968-1444-49f3-920c-a35a148e54d0)
 
-#### :point_right: 출하 명세서 디테일 페이지에서 검수 시작 버튼을 누르면 검수 페이지로 이동
+#### :point_right: 
 
 *** 
 
-### :open_file_folder: 자재 검수
+### :open_file_folder: 발주 상세
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/962fab1f-cecc-422e-a06f-a64c2b6eb1fb)
 
-#### :point_right: 자재 검수 리스트
+#### :point_right: 
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/eb695753-a556-4ca6-9017-895532e2b3b5)
 
-#### :point_right: 자재 검수 모달창. 반품 / 정품 처리 기능
+#### :point_right: 
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/1fd16451-8ae1-4829-a4a8-f999d7f79632)
 
-#### :point_right: 검수 시 모달창으로 검수 개수 확인 가능
+#### :point_right: 
 
 ***
 
-### :open_file_folder: 거래 명세서
+### :open_file_folder: 거래처
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/d3f2f9af-45d5-402e-9b29-1bee95b2a222)
 
-#### :point_right: 거래 명세서 리스트
+#### :point_right: 
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/334797f6-e89f-49b1-978c-de47aca13564)
 
-#### :point_right: 거래 명세서 내역 조회 기능
+#### :point_right: 
 
 ***

@@ -77,10 +77,9 @@
 ***
 
 ### :open_file_folder: 발주 리스트
-![list](https://github.com/juyeongezen/guru/assets/151706785/77fae841-c954-40d2-8d27-4327b8f2eb18)
+![image](https://github.com/juyeongezen/guru/assets/151706785/8cb42b39-48bd-4b4f-8123-04f9947c0ca8)
 
-#### :point_right: 계약과 조달계획에 따른
-발주 조회![image](https://github.com/juyeongezen/guru/assets/151706785/f6f9baed-451b-40a7-8b22-cac18c70f865)
+#### :point_right: 계약과 조달계획에 따른 발주 조회
 
 #
 
@@ -93,28 +92,23 @@
 ### :open_file_folder: 발주 상세
 ![image](https://github.com/juyeongezen/guru/assets/151706785/a38cfd30-e661-4af4-a0b3-23dce1460446)
 
-#### :point_right: 
+#### :point_right: 발주 시 수량 및 상태 변경
 #
 
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/eb695753-a556-4ca6-9017-895532e2b3b5)
+![image](https://github.com/juyeongezen/guru/assets/151706785/a5a0b973-278e-46d7-800a-84ca6dfe3831)
 
-#### :point_right: 
-#
-
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/1fd16451-8ae1-4829-a4a8-f999d7f79632)
-
-#### :point_right: 
+#### :point_right: 발주마감 (상태 변경)
 
 ***
 
 ### :open_file_folder: 거래처
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/d3f2f9af-45d5-402e-9b29-1bee95b2a222)
+![image](https://github.com/juyeongezen/guru/assets/151706785/b7282c57-f5e4-478e-927a-1460db5cdc13)
 
-#### :point_right: 
+#### :point_right: 거래처 조회 및 관리
 #
 
-![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/334797f6-e89f-49b1-978c-de47aca13564)
+![image](https://github.com/juyeongezen/guru/assets/151706785/0c1ce719-5fb1-4faa-868d-b4f7ceb64df6)
 
-#### :point_right: 
+#### :point_right: 등록, 수정 및 삭제 구현 (주소찾기 KAKAO API 활용)
 
 ***

@@ -107,7 +107,7 @@
 #### :point_right: 거래처 조회 및 관리
 #
 
-![image](https://github.com/juyeongezen/guru/assets/151706785/0c1ce719-5fb1-4faa-868d-b4f7ceb64df6)
+![image](https://github.com/juyeongezen/guru/assets/151706785/45b4a3f9-293a-42dc-8a24-2ee413474ddd)
 
 #### :point_right: 등록, 수정 및 삭제 구현 (주소찾기 KAKAO API 활용)
 
